@@ -1,5 +1,7 @@
 # Real Estate Flipper Calculator
 
+*Disclaimer: This is my first python project. I expect to slowly update and add new features and updates to the project
+
 The Real Estate Flipper Calculator is a comprehensive tool designed to assist real estate investors in evaluating the financial viability of flipping properties. This project provides a robust set of functions to calculate various costs, profits, and returns associated with real estate investments.
 
 ## Features
