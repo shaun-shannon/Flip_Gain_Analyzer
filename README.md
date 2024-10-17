@@ -1,4 +1,4 @@
-# Real Estate Flipper Calculator
+# FlipGain Analyzer
 
 *Disclaimer: This is my first python project. I expect to slowly update and add new features and updates to the project
 
